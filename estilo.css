@@ -1,0 +1,18 @@
+body{
+   
+    .square{
+        border: 1px solid black;
+    }
+    .square-blue {
+        background-color: rgb(0, 204, 255);
+    }
+    .square-green {
+        background-color: rgb(228, 224, 22);
+    }
+    .square-purple {
+        background-color: orange;
+    }
+    .square-red {
+        background-color: red;
+    }
+}
