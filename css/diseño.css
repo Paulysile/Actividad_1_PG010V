@@ -24,3 +24,32 @@ nav{
     float: left;
     color: whitesmoke;
 }
+
+#ubicacion2 {
+    width: 80%;
+    height: 100%;
+    float: right;
+    
+}
+#centrado1 {
+    text-align: left;
+    font-family: sans-serif;
+    color: white;
+    background-color: turquoise;
+    height: 100%;
+    padding: 1.5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    
+}
+
+#centrado2 {
+    text-align: left;
+    font-family: sans-serif;
+    color: white;
+    background-color: yellow;
+    height: 100%;
+    padding: 1.5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
