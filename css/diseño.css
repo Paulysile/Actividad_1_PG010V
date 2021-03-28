@@ -53,3 +53,24 @@ nav{
     padding-left: 10%;
     padding-right: 10%;
 }
+#centrado3 {
+    text-align: left;
+    font-family: sans-serif;
+    color: white;
+    background-color: orange;
+    height: 100%;
+    padding: 1.5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#centrado4 {
+    text-align: left;
+    font-family: sans-serif;
+    color: white;
+    background-color: red;
+    height: 100%;
+    padding: 1.5%;
+    padding-left: 10%;
+    padding-right: 10%;
+}
