@@ -15,6 +15,11 @@ h2{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
 }
 
+#centrado{
+    
+    margin-top: 20%;
+}
+
 #pie{
     font-family: 'Calibri', sans-serif;
     text-align: center;
