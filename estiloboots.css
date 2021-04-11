@@ -1,0 +1,21 @@
+
+html {height:100%;
+}
+
+body{background-color: #eea334;
+    text-align: center;
+    font-family: 'helvetica', sans-serif;
+    font-size: medium;
+}
+
+#pie{
+    font-family: 'Calibri', sans-serif;
+    text-align: center;
+    font-style: normal;
+    font-size: x-small;
+    }
+
+#image{
+    align-items: center;
+
+}
